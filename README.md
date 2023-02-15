@@ -5,8 +5,6 @@
 * [ScreenShots](#ScreenShots)
 
 ## Task Description
-Acceptance criteria:
-
 Using this data (put it in its own file to be exported)
 
 const products = [
